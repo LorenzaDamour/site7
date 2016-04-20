@@ -1,0 +1,61 @@
+
+
+nav{
+  background-color: #B6CE00;
+  height: 50px;
+
+}
+
+ul{
+  list-style: none;
+
+}
+
+header nav ul li{
+  display: inline-block;
+margin-right: 80px;
+
+}
+
+header nav ul li a{
+  color: white;
+}
+header{
+  background-color: #F2F2F2;
+}
+
+header img{
+  width: 1140px;
+}
+
+section article img{
+  float: left;
+
+}
+
+article{
+  padding-bottom: 20px;
+}
+
+
+article img{
+  margin-right: 20px;
+}
+.makis{
+  width: 100px;
+}
+
+h6{
+  position: absolute;
+  background-color: orange;
+}
+
+.vert{
+  position: absolute;
+  background-color: #B6CE00;
+}
+
+h4{
+
+  background-color: #B6CE00;
+}
